@@ -1,12 +1,11 @@
 ### Hi there 👋
-
-My Name Is Zairi Aimen
+![Zairi Aimen Github Stats](https://github-readme-stats.vercel.app/api?username=ZairiAimenDz&show_icons=true&theme=radical)
 
 ### 💼 My Previous Work
 
 - [Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
 - [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
-- Basic E-Commerce Application 
+- [Basic E-Commerce Application](Projects/Ecommerce.md)
 
 ### 🔭 I’m currently working on 
 
@@ -34,8 +33,3 @@ My Name Is Zairi Aimen
 - (2017)I Replayed Battlefield Bad Company 2 Four Times in a single month For No Reason.
 - (2018)I Learned Python Then Figured It Was Not For Me
 - I Don't like JavaScript
-
-
-### My Legendary Stats
-
-![Zairi Aimen Github Stats](https://github-readme-stats.vercel.app/api?username=ZairiAimenDz&show_icons=true&theme=radical)
