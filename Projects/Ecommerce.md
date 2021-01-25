@@ -11,8 +11,6 @@
 
 ![](Images/All_Products_List.png)
 
-![](Images/Product_List_Search.png)
-
 - Client Can See Details About Products They Are Interested In
 
 ![](Images/Product_Details.png)
@@ -23,13 +21,7 @@
 
 - When They Order They Will Be Sent To A Page Where They Have All Their Orders, The Website/Store Owner Also Sees All The Orders In The Same Way
 
-![](Images/User_Orders.png)
-
 - Admin Panel :
-
-![](Images/Admin_Dash.png)
-
-![](Images/Admin_Categories.png)
 
 ![](Images/Admin_Products_List.png)
 
