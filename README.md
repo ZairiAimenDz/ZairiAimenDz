@@ -5,15 +5,17 @@
 
 - [Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
 - [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
-- [Basic E-Commerce Application](Projects/Ecommerce.md)
+- [Basic E-Commerce Application]() // No Link Yet
 
 ### 🔭 I’m currently working on 
 
-- Private project xd
+- Private Projects xD
 
 ### 🌱 I’m currently learning 
 
-- .NET 5 MVC 
+- <b style="color:green">.NET 5 MVC</b>
+- .NET 5 Web APIs
+- <b>GraphQL</b>
 - Blazor Server And A Bit Of Web Assembly
 
 ### 💬 Ask me about
