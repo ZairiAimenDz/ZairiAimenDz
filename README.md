@@ -5,7 +5,7 @@
 
 - [Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
 - [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
-- [Basic E-Commerce Application]()
+- [Basic E-Commerce Application](https://github.com/ZairiAimenDz/Electronics-Store)
 - [Real Estate Agency]() // Private Repo
 
 ### 🔭 I’m currently working on 
