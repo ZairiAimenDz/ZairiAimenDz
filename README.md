@@ -5,7 +5,8 @@
 
 - [Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
 - [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
-- [Basic E-Commerce Application]() // No Link Yet
+- [Basic E-Commerce Application]()
+- [Real Estate Agency]() // Private Repo
 
 ### 🔭 I’m currently working on 
 
@@ -16,12 +17,12 @@
 - <b style="color:green">.NET 5 MVC</b>
 - .NET 5 Web APIs
 - <b>GraphQL</b>
-- Blazor Server And A Bit Of Web Assembly
 
 ### 💬 Ask me about
 
 - C#
 - .NET
+- Blazor
 
 ### 📫 How to reach me:
 
