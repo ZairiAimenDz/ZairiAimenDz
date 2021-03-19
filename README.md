@@ -27,7 +27,7 @@
 ### 📫 How to reach me:
 
 - Gmail : zairiaimendev@gmail.com or a.zairi@esi-sba.dz
-- LinkedIn : 
+- LinkedIn : [https://www.linkedin.com/in/zairi-aimen-esi/](https://www.linkedin.com/in/zairi-aimen-esi/)
 
 ### ⚡ Fun fact or More Like My History:
 
