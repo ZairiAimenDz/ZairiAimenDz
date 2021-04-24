@@ -16,6 +16,7 @@
 
 - <b style="color:green">.NET 5 MVC</b>
 - .NET 5 Web APIs
+- Vue.JS
 - <b>GraphQL</b>
 
 ### 💬 Ask me about
