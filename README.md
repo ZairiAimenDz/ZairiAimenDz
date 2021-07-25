@@ -7,16 +7,16 @@
 - [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
 - [Basic E-Commerce Application](https://github.com/ZairiAimenDz/Electronics-Store)
 - [Real Estate Agency]() // Private Repo
+- [Twitter Clone]() // Freelancing Job & Private Repo
 
 ### 🔭 I’m currently working on 
 
-- Private Projects xD
+- Third Year Project
 
 ### 🌱 I’m currently learning 
 
-- <b style="color:green">.NET 5 MVC</b>
-- .NET 5 Web APIs
-- Vue.JS
+- Javascript
+- React
 - <b>GraphQL</b>
 
 ### 💬 Ask me about
@@ -36,4 +36,5 @@
 - (2015)I Used to Do Game Development Using Unity, UDK and CryEngine 
 - (2017)I Replayed Battlefield Bad Company 2 Four Times in a single month For No Reason.
 - (2018)I Learned Python Then Figured It Was Not For Me
+- (2021)First Ever Freelancing Job 
 - I Don't like JavaScript
