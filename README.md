@@ -15,6 +15,7 @@
 
 ### 🌱 I’m currently learning 
 
+- .NET MAUI
 - Javascript
 - React
 - <b>GraphQL</b>
