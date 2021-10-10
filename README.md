@@ -7,8 +7,8 @@
 - [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
 - [Basic E-Commerce Application](https://github.com/ZairiAimenDz/Electronics-Store)
 - [Advanced E-Commerce Shop](https://github.com/ZairiAimenDz/Project_InfiniTech)
-- [Real Estate Agency]() // Private Repo
-- [Twitter Clone]() // Freelancing Job & Private Repo
+- [Real Estate Agency](https://github.com/ZairiAimenDz/Real-Estate-Agency-Website)
+- [Twitter Clone]() // Freelancing Job With Azure Private Repo
 
 ### 🔭 I’m currently working on 
 
