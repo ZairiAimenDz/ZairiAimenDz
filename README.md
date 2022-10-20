@@ -24,7 +24,7 @@
 ### 💬 Ask me about
 
 - C#
-- .NET Core / 5
+- .NET Core 6
 - Blazor
 
 ### 📫 How to reach me:
