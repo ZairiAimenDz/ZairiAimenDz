@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![Zairi Aimen Github Stats](https://github-readme-stats.vercel.app/api?username=ZairiAimenDz&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### 💼 My Previous Work
 
 - [Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
