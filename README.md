@@ -17,22 +17,20 @@
 
 ### 🔭 I’m currently working on 
 
-- Youtube Channel And Blog
-- Studies
+- Final Year Project
 
 ### 🌱 I’m currently learning 
 
-- Javascript & React
-- <b>GraphQL</b>
+- Kubernetes And Devops
 
 ### 💬 Ask me about
 
 - C#
-- .NET Core 6
+- .NET 7
 - Blazor
 
 ### 📫 How to reach me:
 
-- Gmail : zairiaimendev@gmail.com or a.zairi@esi-sba.dz
+- Gmail : zairiaimendev@gmail.com | a.zairi@esi-sba.dz | zairiaimendev@outlook.com
 - LinkedIn : [https://www.linkedin.com/in/zairi-aimen-esi/](https://www.linkedin.com/in/zairi-aimen-esi/)
 - Website : [My Website](https://zairiaimen.com)
