@@ -27,6 +27,10 @@ Blazor </p>
 
 ### 💼 My Previous Work
 
+[Appointment Booking Platform]()
+
+[Social Media Content And Scheduling SAAS]()
+
 [Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
 
 [ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
