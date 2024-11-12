@@ -18,55 +18,12 @@ I Develop All Sorts Of Software From Desktop Apps, Web, Mobile And Even Some AI 
 
 [![mongodb,githubactions,mysql,nginx,postgres,postman,rabbitmq,redis,sqlite,tailwind](https://skillicons.dev/icons?i=mongodb,mysql,githubactions,nginx,postgres,postman,rabbitmq,redis,sqlite,tailwind)](https://skillicons.dev)
 
-### 💬 Ask me about
-
-<p>
-C#  -
-.NET  -
-Blazor </p>
-
-### 💼 My Previous Work
-
-[Appointment Booking Platform]()
-
-[Social Media Content And Scheduling SAAS]()
-
-[Xamarin.Forms COVID-19 Stats App](https://github.com/ZairiAimenDz/Covid19Xamarin) 
-
-[ColorIDEA - Color Palette Generator](https://github.com/ZairiAimenDz/ColorIDEA)  
-
-[Basic E-Commerce Application](https://github.com/ZairiAimenDz/Electronics-Store)
-
-[Advanced E-Commerce Shop](https://github.com/ZairiAimenDz/Project_InfiniTech)
-
-[Real Estate Agency Website](https://github.com/ZairiAimenDz/Real-Estate-Agency-Website)
-
-[Password Safe : Vault For Your Enterprise Computer Passwords](https://github.com/ZairiAimenDz/PasswordSafe)
-
-[Twitter Clone]()
-
-### 🔭 I’m currently working on 
-
-Freelance Projects
-
-My Youtube Channel And Dev.to Profile
-
-Secret Projects :) 
-
-### 🌱 I’m currently learning 
-
-Kubernetes And Devops
-
-Agile Project Management
-
-Artificial Intelligence And Deep Learning
-
 ### 📫 How to reach me:
 
 EMail : zairiaimendev@gmail.com | a.zairi@esi-sba.dz | zairiaimendev@outlook.com
 
 LinkedIn : [https://www.linkedin.com/in/zairi-aimen-esi/](https://www.linkedin.com/in/zairiaimendev/)
 
-Website (Redesign Soon): [My Website](https://zairiaimen.com)
+Website : [My Website](https://zairiaimen.com)
 
 </div>
