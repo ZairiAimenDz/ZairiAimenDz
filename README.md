@@ -22,7 +22,7 @@ I Develop All Sorts Of Software From Desktop Apps, Web, Mobile, And Even Some AI
 
 EMail : zairiaimendev@gmail.com | a.zairi@esi-sba.dz | zairiaimendev@outlook.com
 
-LinkedIn : [https://www.linkedin.com/in/zairi-aimen-esi/](https://www.linkedin.com/in/zairiaimendev/)
+LinkedIn : [https://www.linkedin.com/in/zairiaimendev/](https://www.linkedin.com/in/zairiaimendev/)
 
 Website : [My Website](https://zairiaimen.com)
 
