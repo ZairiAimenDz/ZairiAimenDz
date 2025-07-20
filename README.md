@@ -2,9 +2,9 @@
 
 ## My name is Zairi Aimen
 
-.NET Software Engineer, Journey Started With Visual Basic, Went Through Python, PHP and Python And Back To .NET With C#.
+.NET Software Engineer, Journey Started With Visual Basic, Went Through Python, PHP, and Back To .NET With C#.
 
-I Develop All Sorts Of Software From Desktop Apps, Web, Mobile And Even Some AI Things As Long As I Can Do It In .NET
+I Develop All Sorts Of Software From Desktop Apps, Web, Mobile, And Even Some AI Things As Long As I Can Do It In .NET
 
 [![Devt](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/zairiaimendev)  &nbsp;
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/zairiaimen)  &nbsp;
