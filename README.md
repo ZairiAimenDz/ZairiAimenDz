@@ -2,7 +2,7 @@
 
 ## My name is Zairi Aimen
 
-.NET Software Engineer, Journey Started With Visual Basic, Went Through Python, PHP, and Back To .NET With C#.
+.NET Software Engineer, Journey Started With Visual Basic, Went Through Python, PHP, Javascript, JAVA, and Back To .NET With C#.
 
 I Develop All Sorts Of Software From Desktop Apps, Web, Mobile, And Even Some AI Things As Long As I Can Do It In .NET
 
